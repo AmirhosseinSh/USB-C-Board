@@ -156,87 +156,108 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=Libraries\FPC-PCB-8PIN.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.DRL
+DocumentPath=Project Outputs for USB-C-PCB\Design Rule Check - USB-C-PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.DRR
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.EXTREP
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBL
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBO
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBP
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBS
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GKO
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM1
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM13
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM15
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GPB
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GPT
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTL
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTO
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTP
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTS
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.LDP
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.REP
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.RUL
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for USB-C-PCB\USB-C-PCB.TXT
 DItemRevisionGUID=
 
